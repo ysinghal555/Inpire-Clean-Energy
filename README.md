@@ -1,6 +1,6 @@
 **Title of Project:** To create an HTML webpage, with user access restrictions.
 
-**Technologies Used: **
+**Technologies Used:**
 
 - Servlets
 - JSP
